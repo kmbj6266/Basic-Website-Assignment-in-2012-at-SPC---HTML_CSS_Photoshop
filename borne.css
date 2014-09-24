@@ -1,0 +1,125 @@
+
+body {background-color:#E5DEDE; 
+      color:#666666; 
+      font-family:Verdana, Arial, sans-serif;
+}
+
+h1  {background-color:#000000;
+     color:#FFFFFF;
+     line-height:300%;
+     font-family:Georgia, serif;
+     background-image: url(Design.jpg); 
+     background-repeat: no-repeat;
+     background-position: right;
+     height: 100px;
+     margin-bottom: 0;
+     padding-left: 20px;
+}
+
+.figure {float: right;
+        width: 170px;
+        height: 240px;
+	margin: 20px;
+        padding: 5px;
+	background-color:#FFF;
+        border: 1px solid #CCC;
+	text-align: center;
+	font-size: .80em;
+	 -webkit-transform: rotate(3deg);
+	-moz-transform: rotate(3deg);
+	-o-transform: rotate(3deg);
+	-ms-transform: rotate(3deg);
+	 transform: rotate(3deg);
+	-webkit-box-shadow: 5px 5px 5px #828282;
+        -moz-box-shadow: 5px 5px 5px #828282;
+         box-shadow: 5px 5px 5px #828282;}
+
+
+table {margin: auto;
+       border: 1px solid #3399cc;
+       width: 600px;
+       border-spacing: 0;
+}
+
+label {float:left;
+       display: block;
+       width:120px;
+        padding-right: 10px;}
+
+input, textarea {margin-bottom: 20px;
+                 display:block;}
+
+#mySubmit {margin-left:130px;}
+
+
+
+
+.text {text-align: left;}
+
+
+#nav {font-weight:bold;
+      float: left;
+      width: 160px;
+      padding: 20px 5px 5px 20px;
+}
+
+#nav a {text-decoration: none;}
+
+#nav a:link {color: #000000;}
+#nav a:visited {color: #E5DEDE;}
+#nav a:hover {color: #FFFFFF;}
+
+#nav ul {list-style-type: none;
+         margin: 0;
+         padding-left: 0;}
+
+h2 {color:#A28888;
+    font-family:Georgia, serif;}
+
+h3 {color:#000033;
+}
+
+dt {color:#000033;}
+
+.name {color:#000033;
+         font-size:1.2em;}
+
+
+#footer {font-size:.70em;
+         font-style:italic;
+         text-align:center;
+         padding: 10px;
+}
+
+#content {padding: 30px;
+          background-color: #FFFFFF;
+          margin-left: 160px;
+          padding-top: 1px;
+}
+
+#img {width:960px;
+            height: auto;
+            display: inline;
+            padding: 5px;
+            margin-left: auto;
+            margin-right: auto;
+            margin: 0px 100px 0px 0px;}
+
+
+#content ul {list-style-position: inside;}
+
+.clear {clear: both;}
+
+#wrapper {margin-left:auto;
+          margin-right:auto;
+          width:80%;
+          background-color:#666666;
+          min-width: 650px;
+          -webkit-box-shadow: 5px 5px 5px #828282;
+          -moz-box-shadow: 5px 5px 5px #828282;
+          box-shadow: 5px 5px 5px #828282;
+}
+
+
+
+
